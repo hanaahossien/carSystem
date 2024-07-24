@@ -42,7 +42,9 @@ Rental APIs:
 3- Delete Rental
 4- Get all Rentals
 5- Get a specific Rental
+
 Special APIs:
+
 1- Get all cars whose model is ‘Honda’ and ‘Toyota’ (using query
 params)
 2- Get Available Cars of a Specific Model.
