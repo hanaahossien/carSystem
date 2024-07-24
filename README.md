@@ -10,6 +10,7 @@ Manage Customers (CRUD operations)
 Manage Rentals (CRUD operations)
 
 MongoDB Models:
+
 Car: Should have fields like name, model, and rental status
 (available/rented).
 Customer: Should have fields like name, password, email, and phone
@@ -18,19 +19,24 @@ Rental: Should have references to both Car and Customer and
 include fields for rental date and return date.
 
 User APIs:
+
 1- Signup
 2- Sign in
 3- Get a specific user.
 4- Get all users.
 5- Update user (owner only)
 6- Delete user (owner only)
+
 Car APIs:
+
 1- Add car
 2- Get a specific car
 3- Get all cars
 4- Update a car.
 5- Delete a car.
+
 Rental APIs:
+
 1- Create Rental
 2- Update Rental
 3- Delete Rental
